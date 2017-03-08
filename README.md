@@ -4,7 +4,7 @@ A repository to show the speed of bootstrapping a kotlin and spring boot project
 If there's anything that's incorrect, or anything that I missed, submit a PR!
 
 
-[Here are the slides that accompany the talk](http://www.slideshare.net/YousufHaque/spring-boot-kotlin-lt3)
+TO DO
 
 1. You will need to set up a firebase project. Instructions to configure the project can be found [here](https://firebase.google.com/docs/admin/setup)
 
