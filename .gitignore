@@ -15,4 +15,3 @@ gradle-app.setting
 
 src/main/resources/*.json
 .idea/
-build/ 
