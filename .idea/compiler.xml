@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="SpringBootKotlinDemo_main" target="1.8" />
       <module name="SpringBootKotlinDemo_test" target="1.8" />
+      <module name="SpringBootKotlinFirebaseDemo_main" target="1.8" />
+      <module name="SpringBootKotlinFirebaseDemo_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

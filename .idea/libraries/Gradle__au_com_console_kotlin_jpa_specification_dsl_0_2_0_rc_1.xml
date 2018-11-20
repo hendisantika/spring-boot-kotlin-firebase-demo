@@ -2,10 +2,12 @@
   <library name="Gradle: au.com.console:kotlin-jpa-specification-dsl:0.2.0-rc.1">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/au.com.console/kotlin-jpa-specification-dsl/0.2.0-rc.1/5aa03076626a394ab76da56aeb0c5781ac70fe6d/kotlin-jpa-specification-dsl-0.2.0-rc.1.jar!/" />
+      <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/au.com.console/kotlin-jpa-specification-dsl/0.2.0-rc.1/5aa03076626a394ab76da56aeb0c5781ac70fe6d/kotlin-jpa-specification-dsl-0.2.0-rc.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/au.com.console/kotlin-jpa-specification-dsl/0.2.0-rc.1/233ecbce571ac301014712680d192ed9c653264a/kotlin-jpa-specification-dsl-0.2.0-rc.1-sources.jar!/" />
+      <root url="jar:///usr/local/Cellar/gradle/4.10/libexec/caches/modules-2/files-2.1/au.com.console/kotlin-jpa-specification-dsl/0.2.0-rc.1/233ecbce571ac301014712680d192ed9c653264a/kotlin-jpa-specification-dsl-0.2.0-rc.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

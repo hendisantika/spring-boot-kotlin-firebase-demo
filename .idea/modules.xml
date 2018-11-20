@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootKotlinDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootKotlinDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootKotlinDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootKotlinDemo_main.iml" group="SpringBootKotlinDemo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootKotlinDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootKotlinDemo_test.iml" group="SpringBootKotlinDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootKotlinFirebaseDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootKotlinFirebaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootKotlinFirebaseDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootKotlinFirebaseDemo_main.iml" group="SpringBootKotlinFirebaseDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootKotlinFirebaseDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootKotlinFirebaseDemo_test.iml" group="SpringBootKotlinFirebaseDemo" />
     </modules>
   </component>
 </project>
