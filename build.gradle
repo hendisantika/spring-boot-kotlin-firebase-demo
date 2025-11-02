@@ -43,7 +43,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-data-rest')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('com.google.firebase:firebase-admin:9.7.0')
-	compile "com.fasterxml.jackson.module:jackson-module-kotlin:2.20.0"
+	compile "com.fasterxml.jackson.module:jackson-module-kotlin:2.20.1"
 	compile("au.com.console:kotlin-jpa-specification-dsl:0.2.0-rc.1")
 	compile("org.jetbrains.kotlin:kotlin-stdlib:${kotlinVersion}")
 	compile("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
